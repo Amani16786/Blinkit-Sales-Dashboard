@@ -1,7 +1,7 @@
 # Blinkit Sales Dashboard 📊
 
 ## 📌 Project Overview
-This project analyzes Blinkit sales data using Power BI to generate actionable business insights.
+This dashboard analyzes Blinkit sales performance, outlet trends, and customer ratings using Power BI.
 
 ## 🔍 Key Insights
 - Tier 3 outlets generated the highest sales
@@ -19,4 +19,4 @@ This project analyzes Blinkit sales data using Power BI to generate actionable b
 - Dashboard Screenshot.png
 
 ## 📸 Dashboard Preview
-![Dashboard](blinkit projects on 04 may)
+Dashboard Preview – Blinkit Sales Analysis Project (04 May)
